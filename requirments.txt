@@ -1,9 +1,8 @@
-# No external dependencies required!
-# The chatbot is built entirely with Python standard library.
-# (json, re, math, os, collections — all built-in)
+# No external dependencies required.
+# This project uses only Python standard library.
 
-# Optional: install these for advanced extensions
-# scikit-learn       # if you want sklearn TF-IDF comparison
-# nltk               # for advanced stemming / POS tagging
-# transformers       # HuggingFace — for BERT/GPT fine-tuning
-# torch              # PyTorch backend for transformers
+# Optional (for future improvements):
+scikit-learn
+nltk
+transformers
+torch
